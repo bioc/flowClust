@@ -5,8 +5,9 @@ import(graph)
 importFrom(MCMCpack,ddirichlet)
 importFrom(BiocGenerics,density)
 #importClassesFrom(flowWorkspace,GatingSet)
-importFrom(graphics,
-           hist)
+#importFrom(graphics,
+#           plot,
+#           hist)
 
 importFrom("flowCore", "summarizeFilter")
 importFrom("clue",solve_LSAP)
