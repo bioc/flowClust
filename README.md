@@ -8,7 +8,7 @@ Authors: Raphael Gottardo, Kenneth Lo, Greg Finak.
 
 Robust, multivariate-t mixture models with Box-Cox transformation.
 
-BioConductor: http://www.bioconductor.org/packages/2.10/bioc/html/flowClust.html
+BioConductor: http://www.bioconductor.org/packages/2.14/bioc/html/flowClust.html
 
 # Papers
 =========
@@ -16,8 +16,3 @@ BioConductor: http://www.bioconductor.org/packages/2.10/bioc/html/flowClust.html
 * http://www.ncbi.nlm.nih.gov/pubmed?term=box%20cox%20tranformation%20cytometry%20a
 
 
-# Current development version
-==============================
-
-This development version of flowClust allows setting a prior on the parameters of the clusters. 
-Most features are not yet well documented. 
